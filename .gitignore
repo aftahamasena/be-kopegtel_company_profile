@@ -6,3 +6,5 @@ logs/
 tmp/
 .cache/
 .nyc_output/
+.env
+config/
